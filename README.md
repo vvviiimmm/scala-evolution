@@ -1,5 +1,7 @@
 # scala-evolution
 
+Blog post: https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f
+
 Inspired by [The Evolution of a Haskell Programmer](https://www.cs.utexas.edu/~cannata/cs345/Class%20Notes/10%20Haskell%20Programmer%20Evolution.html)
 
 17 different ways to write a program that calculates factorial based on user input.
